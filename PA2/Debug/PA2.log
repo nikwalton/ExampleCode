@@ -1,0 +1,110 @@
+﻿  functions.c
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(72): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(72): warning C4024: 'putchar': different types for formal and actual parameter 1
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(180): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(186): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(192): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(173): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(188): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(192): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(194): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(198): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(204): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(206): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(212): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(215): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(253): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(255): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(257): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(259): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(281): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node ***'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(281): warning C4024: 'insertAtFront': different types for formal and actual parameter 1
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(255): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(257): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(259): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(261): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(263): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(266): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\functions.c(275): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  main.c
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(64): warning C4476: 'printf' : unknown type field character '/' in format specifier
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(121): warning C4013: 'storeList' undefined; assuming extern returning int
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(83): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(87): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(90): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(93): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(96): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(99): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(102): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(105): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(108): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(110): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(128): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(152): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(158): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(181): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(26): warning C4101: 'lastName': unreferenced local variable
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(25): warning C4101: 'firstName': unreferenced local variable
+c:\users\nik walton\documents\visual studio 2017\projects\cs122\pa2\pa2\main.c(79): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+  PA2.vcxproj -> C:\Users\Nik Walton\Documents\Visual Studio 2017\Projects\CS122\PA2\Debug\PA2.exe
