@@ -2,7 +2,7 @@
 * PA6: Battleship
 * Programmed by: Nik Walton
 * Created: 3.19.2018
-* Last Modified: 3.26.2019
+* Last Modified: 3.26.2018
 * Desc:A game of battleship.
 */
 #include "functions.h"
